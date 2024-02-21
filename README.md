@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+I'm Z; A rebellious mind in this awesome world...
